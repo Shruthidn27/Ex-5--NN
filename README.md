@@ -1,7 +1,7 @@
 <H3>SHRUTHI D.N </H3>
 <H3>212223240155</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE:30/10/25</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
